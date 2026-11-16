@@ -219,6 +219,21 @@ html {
     gap: var(--space);
   }
 
+  @media (width >= 48rem) {
+    .md .graph {
+      width: min(calc(100vw - 16rem - 4 * var(--space)), 1665px);
+    }
+  }
+
+  .md .graph * {
+    font-size: 14px;
+    line-height: normal;
+  }
+
+  .md .graph a {
+    text-decoration: none;
+  }
+
   .md .images > figure {
     min-width: 0;
   }
