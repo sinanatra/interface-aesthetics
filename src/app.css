@@ -170,6 +170,43 @@ html {
     list-style: none;
   }
 
+  .md :is(ol, ul) {
+    max-width: 640px;
+  }
+
+  .md ol {
+    counter-reset: item;
+  }
+
+  .md :is(ol, ul) > li {
+    position: relative;
+  }
+
+  .md :is(ol, ul) > li + li {
+    margin-top: calc(var(--space) / 2);
+  }
+
+  .md :is(ol, ul) > li::before {
+    position: absolute;
+    left: -1rem;
+    color: var(--color-muted);
+  }
+
+  .md ol > li {
+    counter-increment: item;
+  }
+
+  .md ol > li::before {
+    font-size: var(--fs-small);
+    content: counter(item);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .md ul > li::before {
+    font-size: var(--fs-small);
+    content: "*";
+  }
+
   .md pre {
     overflow-x: auto;
   }

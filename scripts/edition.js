@@ -37,7 +37,7 @@ const section = [
 	...links.map((l) => `- [${l.label}](${l.href})`),
 	`- [Case Study](${root}/case-study)`,
 	`- [Readings](${root}/readings)`,
-	`- [Resources](${root}/resources)`
+	// `- [Resources](${root}/resources)`
 ].join('\n');
 
 const page = new URL(`${year}.md`, dir('editions'));

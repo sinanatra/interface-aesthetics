@@ -5,9 +5,9 @@
   let { lessons, editions, path } = $props();
 
   const links = [
-    { slug: "case-study", title: "Case Study" },
     { slug: "readings", title: "Readings" },
-    { slug: "resources", title: "Resources" },
+    { slug: "case-study", title: "Case Study" },
+    // { slug: "resources", title: "Resources" },
   ];
 
   const link = (slug) => ({
