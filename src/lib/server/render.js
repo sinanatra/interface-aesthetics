@@ -15,9 +15,7 @@ const isImageRow = (tokens) =>
 
 const WIDTHS = { small: "33%", medium: "50%", large: "75%" };
 
-// Images are dithered, so Are.na's full-size originals are wasted bytes.
-// Every Are.na image is requested through its resize service at this size.
-const ARENA_SIZE = 800;
+const ARENA_SIZE = 400;
 
 function arenaKey(href) {
   const cdn = href.match(
