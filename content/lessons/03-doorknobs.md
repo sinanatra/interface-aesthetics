@@ -23,7 +23,7 @@ On a screen every gesture is recorded. Vilém Flusser read gestures like writing
 
 ## Playing with the parts
 
-The web is made of standard parts, and parts can be played with. Evan Roth's [_All HTML_](https://esoteric.codes/blog/all-html) puts every HTML tag on one page. Katherine Yang [jams](https://kayserifserif.place/work/every-element-is-an-html/) with the same elements. JODI made the [error page](http://404.jodi.org/) the work. Matthew Fuller, in [*Behind the Blip*](https://monoskop.org/log/?p=1108), calls this critical software: software that shows its own assumptions.
+The web is made of standard parts, and parts can be played with. Evan Roth's [_All HTML_](https://esoteric.codes/blog/all-html) puts every HTML tag on one page. Katherine Yang [jams](https://kayserifserif.place/work/every-element-is-an-html/) with the same elements. JODI made the [error page](http://404.jodi.org/) the work, [Scrollbar Composition](https://www.scrollbarcomposition.com/), the scrollbar. Matthew Fuller, in [*Behind the Blip*](https://monoskop.org/log/?p=1108), calls this critical software: software that shows its own assumptions.
 
 <br>
 
