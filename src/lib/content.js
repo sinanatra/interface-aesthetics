@@ -1,7 +1,7 @@
 export const SITE = "Interface Aesthetics";
 export const HOME = "about";
 export const CREDITS = [
-  { lines: ["Accademia di Belle Arti di Bologna"] },
+//   { lines: ["Accademia di Belle Arti di Bologna"] },
   { lines: ["Giacomo Nanni"], href: "https://giacomo.website" },
 ];
 

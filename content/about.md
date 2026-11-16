@@ -1,5 +1,5 @@
-## Accademia di Belle Arti di Bologna
-## Design della cura, 2nd year
+<!-- ## Accademia di Belle Arti di Bologna
+## Design della cura, 2nd year -->
 
 <br>
 
