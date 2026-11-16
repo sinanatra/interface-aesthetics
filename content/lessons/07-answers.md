@@ -4,7 +4,9 @@
 > The visual is too loaded to be of any use.
 > Vinzenz Aubry, ["In Defense of No Image"](https://vinzenzaubry.com/text/in-defense-of-no-image), 2024
 
-[![In the age of information overload, the ultimate luxury is meaning and context.](https://d2w9rnfcy7mm78.cloudfront.net/52827931/original_1be44e685918d987f239e8049c8a524c.webp?1794834466?bc=0 "From Laurel Schwulst, My Website Is a Shifting House, 2018")](https://laurelschwulst.com/e/my-website-is-a-shifting-house/)
+[![An AI-generated image of a downed F-35, posted by Tasnim News Agency in June 2025. From Kate Crawford, Eating the Future|medium](https://images-eflux.b-cdn.net/assets/a7ff4357-aa1a-41e6-8842-d57bc33777c2.jpg?&modified=2025-09-13T20:07:51.000Z "An AI-generated image of a downed F-35, posted by Tasnim News Agency in June 2025. From Kate Crawford, Eating the Future")](https://www.e-flux.com/architecture/intensification/6782975/eating-the-future-the-metabolic-logic-of-ai-slop)
+
+<!-- [![In the age of information overload, the ultimate luxury is meaning and context.](https://d2w9rnfcy7mm78.cloudfront.net/52827931/original_1be44e685918d987f239e8049c8a524c.webp?1794834466?bc=0 "From Laurel Schwulst, My Website Is a Shifting House, 2018")](https://laurelschwulst.com/e/my-website-is-a-shifting-house/) -->
 
 In May 2024 Google started answering searches itself, with an AI Overview on top of the results. Asked how to keep cheese from sliding off a pizza, it suggested [adding glue to the sauce](https://www.technologyreview.com/2024/05/31/1093019/why-are-googles-ai-overviews-results-so-bad/). The advice came from a [joke posted on Reddit](https://www.reddit.com/r/Pizza/comments/1a19s0/my_cheese_slides_off_the_pizza_too_easily/) in 2012. Google's answer was a joke by itself, but lost what made it a joke in the first place: meaning and context.
 

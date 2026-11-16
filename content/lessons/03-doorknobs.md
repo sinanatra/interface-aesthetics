@@ -9,7 +9,7 @@
 
 [![Studio Moniker, Puff Up Club](https://studiomoniker.com/thumbs/projects/puff-up-club/states/installation-1920x1272-q85.jpg "Studio Moniker, Puff Up Club")](https://studiomoniker.com/projects/puff-up-club)
 
-A doorknob tells your hand where to go. A button does the same on a screen. Design calls this _affordance_, a word [Don Norman](https://dl.acm.org/doi/10.1145/301153.301168) borrowed from the psychologist James Gibson. Anatoly Zenkov [steals](https://anatolyzenkov.com/stolen-buttons) a button from every website he visits. Side by side, they look like one.
+A doorknob tells your hand where to go. A button does the same on a screen. Design calls this _affordance_, a word [Don Norman](https://dl.acm.org/doi/10.1145/301153.301168) borrowed from the psychologist James Gibson. Anatoly Zenkov [steals](https://anatolyzenkov.com/stolen-buttons) a button from every website he visits. More or less, they all look the same.
 
 ## One app per purpose
 

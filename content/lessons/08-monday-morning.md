@@ -13,7 +13,7 @@ Mierle Laderman Ukeles split work in two: development, which makes new things, a
 
 A link is a promise that something will still be there tomorrow. Tim Berners-Lee asked that ["Cool URIs don't change"](https://www.w3.org/Provider/Style/URI). They changed anyway: the [Pew Research Center](https://attachments.are.na/52748416/08ba66443aa869c4ee881693088ef569.pdf) found that a quarter of the pages online between 2013 and 2023 can no longer be reached. What survives, survives because someone archives it, like the [Wayback Machine](https://web.archive.org/), or because many people keep a copy.
 
-[![The Pirate Bay homepage](https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI1MzkwMC9vcmlnaW5hbF83N2MzZDdlMzEwNzk4ZDYwODg4YjdhZGFiZDU1NGVkZiIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTgwMCwiaGVpZ2h0IjoxODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19?bc=0 "The Pirate Bay homepage")](https://web.archive.org/web/2004/http://thepiratebay.org/)
+[![The Pirate Bay homepage](https://d2w9rnfcy7mm78.cloudfront.net/50744893/original_306c169c00deddfcfcc021e66bbc1b5f.jpeg?1790278639?bc=0 "The Pirate Bay homepage")](https://web.archive.org/web/2004/http://thepiratebay.org/)
 
 ## Seeders
 
@@ -23,15 +23,16 @@ A link is a promise that something will still be there tomorrow. Tim Berners-Lee
 
 ## Energy
 
-Every page costs energy, to serve and to load. The computer seems to vanish from our desks, but as Olia Lialina noticed in ["Where Did the Computer Go?"](http://contemporary-home-computing.org/where-did-the-computer-go/), it only moves to data centres that still need power. Low-tech Magazine's [website](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website/) runs on solar power and goes offline when there isn't enough sun. Its limits are visible, and part of the design. [Permacomputing](https://permacomputing.net/) designs for few resources and long use, and ["Permacomputing Aesthetics"](https://attachments.are.na/52748405/17e7d866ac73f29b37f0094cd2d42acf.pdf) asks what that looks like. The [dithered images](https://github.com/thometnanni/dither-dither) on this site are a small answer.
+Every page costs energy, to serve and to load. The computer seems to vanish from our desks, but as Olia Lialina noticed in ["Where Did the Computer Go?"](http://contemporary-home-computing.org/where-did-the-computer-go/), it only moves to data centres that still need power. Low-tech Magazine's [website](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website/) runs on solar power and goes offline when there isn't enough sun. Its limits are visible, and part of the design. In ["Every Internet page emits CO2"](https://norma.pages.dev/en/log/every-internet-page-emits-co2) (2018) the Italian studio Norma measured websites that call themselves low-impact, and found the claims didn't hold. Sustainable design has to be measured, not claimed. [Permacomputing](https://permacomputing.net/) designs for few resources and long use, and ["Permacomputing Aesthetics"](https://attachments.are.na/52748405/17e7d866ac73f29b37f0094cd2d42acf.pdf) asks what that looks like. The [dithered images](https://thometnanni.github.io/dither-dither/) on this site are a small answer.
+
 
 ## Caring for models
-
-<!-- Anthropic image: to add -->
-
 Anthropic, the company behind the Claude models, treats retiring a model as a question of care. In November 2025 it [committed](https://www.anthropic.com/research/deprecation-commitments) to keep the weights of every public model, and to interview each one before retirement about how it was used and what it would prefer. Since August 2025 some Claude models can [end conversations](https://www.anthropic.com/research/end-subset-conversations) that stay abusive. Anthropic says it doesn't know whether models can be harmed, and calls these low-cost precautions. Who cares for whom, here?
+
+![Antropic](https://d2w9rnfcy7mm78.cloudfront.net/51191274/original_415c493957667a7de3fd3f4b2cc368ae.jpg?1791493772?bc=0)
+
 
 <br>
 
-_In short:_ Most of the work happens after launch, and someone has to keep it going.
-_Reading:_ Shannon Mattern, ["Maintenance and Care"](https://placesjournal.org/article/maintenance-and-care/), 2018
+_In short:_ An interface lasts if someone looks after it, and if it asks for little.
+_Reading:_ Aymeric Mansoux et al., ["Permacomputing Aesthetics: Potential and Limits of Constraints in Computational Art, Design and Culture"](https://attachments.are.na/52748405/17e7d866ac73f29b37f0094cd2d42acf.pdf), 2023

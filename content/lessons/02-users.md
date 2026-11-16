@@ -11,7 +11,6 @@ A mug says "tradition" in many languages. The Arabic comes out in loose, disconn
 ## Users or people
 
 In 2006 Don Norman asked designers to [stop saying "users"](https://jnd.org/words-matter-talk-about-people-not-customers-not-consumers-not-users/): he'd rather call them people. Olia Lialina defends the word in ["Turing Complete User"](http://contemporary-home-computing.org/turing-complete-user/). Being a user is the last reminder that there is a computer, programmed by someone else. Call everyone people and the line between those who build and those who use disappears, and with it the rights users could claim. In ["Rich User Experience"](http://contemporary-home-computing.org/RUE/) she follows the renaming through design: computer becomes technology, interface becomes experience, until we forget there is a machine at all.
-Italian mental health services call the people in their care _utenti_, users. In the asylums Franco Basaglia fought to close, they were _internati_.
 
 ## From the margins
 
