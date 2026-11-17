@@ -28,5 +28,5 @@ Assessment is based on the depth of your analysis, your consistency during revis
 
 <br>
 
-_Reading:_ [_Johanna Drucker, "Humanities Approaches to Interface Theory"_](https://attachments.are.na/23491749/923ae476dd101951b2b630d633621fea.pdf), 2011;
-[_Matthew Fuller and Eyal Weizman, "Aesthetics beyond Perception" and "Aesthetics", in Investigative Aesthetics_](https://attachments.are.na/43821297/84e2b77272ed574edb3e2889ce6d4cb2.pdf), 2021
+_Reading:_ Johanna Drucker, [‘Humanities Approaches to Interface Theory’](https://attachments.are.na/23491749/923ae476dd101951b2b630d633621fea.pdf), 2011;
+Matthew Fuller and Eyal Weizman, [‘Aesthetics beyond Perception’ and ‘Aesthetics’, in _Investigative Aesthetics_](https://attachments.are.na/43821297/84e2b77272ed574edb3e2889ce6d4cb2.pdf), 2021

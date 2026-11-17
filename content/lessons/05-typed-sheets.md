@@ -3,7 +3,7 @@
 ## Pointing towards what?
 
 > Data have no necessary visual form.
-> Alexander R. Galloway, ["Are Some Things Unrepresentable?"](https://attachments.are.na/31584665/3bd36dafd044ae2b48f36c38ffe6c697.pdf), 2011
+> Alexander R. Galloway, [‘Are Some Things Unrepresentable?’](https://attachments.are.na/31584665/3bd36dafd044ae2b48f36c38ffe6c697.pdf), 2011
 
 [![Hans Haacke, Shapolsky et al.](https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0ODYxMjA5L29yaWdpbmFsXzQ1ZDU3Njk1Y2JhZmQ4OTc3Njk3N2E4YmQ2MDliOGM0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTgwMCwiaGVpZ2h0IjoxODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19?bc=0 "Hans Haacke, Shapolsky et al. Manhattan Real Estate Holdings, a Real Time Social System, as of May 1, 1971")](https://news.artnet.com/app/news-upload/2017/02/haacke-FINAL.jpg)
 

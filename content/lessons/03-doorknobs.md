@@ -3,7 +3,7 @@
 ## What does an interface make you do?
 
 > We know how to open doors without knobs.
-> Olia Lialina, “Turing Complete User”, 2012
+> Olia Lialina, ‘Turing Complete User’, 2012
 
 ![](https://studiomoniker.com/videos/direct/173770637.hd.mp4)
 
@@ -13,7 +13,7 @@ A doorknob tells the hand where to go. A button does the same on a screen. In de
 
 ## One app per purpose
 
-A door does one thing, a computer can become anything. In ["Once Again, The Doorknob"](https://contemporary-home-computing.org/affordance/) (2018) Olia Lialina observes how design reduces the computer to a single app per purpose (look at vibe coded websites). You don't need a dating app, she says; you can even go on a date using Excel. Amelia Wattenberger notes that our interfaces have [lost their senses](https://wattenberger.com/thoughts/our-interfaces-have-lost-their-senses): we sculpt with our hands and scrutinise with our eyes, only to flatten everything into a simple tap on the glass.
+A door does one thing, a computer can become anything. In [‘Once Again, The Doorknob’](https://contemporary-home-computing.org/affordance/) (2018) Olia Lialina observes how design reduces the computer to a single app per purpose (look at vibe coded websites). You don’t need a dating app, she says; you can even go on a date using Excel. Amelia Wattenberger notes that our interfaces have [lost their senses](https://wattenberger.com/thoughts/our-interfaces-have-lost-their-senses): we sculpt with our hands and scrutinise with our eyes, only to flatten everything into a simple tap on the glass.
 
 ## The cursor as material
 
@@ -28,4 +28,4 @@ The web is made up of standard components, and you can play with these component
 <br>
 
 _In short:_ An interface tells you what to do but you don’t have to listen.
-_Reading:_ Olia Lialina, ["Once Again, The Doorknob"](https://contemporary-home-computing.org/affordance/), 2018
+_Reading:_ Olia Lialina, [‘Once Again, The Doorknob’](https://contemporary-home-computing.org/affordance/), 2018

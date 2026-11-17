@@ -15,11 +15,11 @@ In 2006, Don Norman asked designers to [stop saying ‘users’](https://jnd.org
 
 ## From the margins
 
-The intended user is a choice. [_‘Design Justice’_](https://designjustice.mitpress.mit.edu/) by Sasha Costanza-Chock calls for design driven by the communities it affects. Ruha Benjamin, in [_‘Race After Technology’_](https://mycours.es/ems2/files/2020/09/Ruha-Benjamin-%E2%80%93-Race-After-Technology-Introduction.pdf), shows how systems that appear neutral reproduce racial discrimination. The
-[“Feminist Search Engine”](https://hackersanddesigners.nl/p/Feminist_Search_Engine) by Hackers & Designers asks: “Who is taking responsibility for which part of the search process: us, the users, the researcher, the library, the algorithm? And how does this influence our search results?”
+The intended user is a choice. [_Design Justice_](https://designjustice.mitpress.mit.edu/) by Sasha Costanza-Chock calls for design driven by the communities it affects. Ruha Benjamin, in [_Race After Technology_](https://mycours.es/ems2/files/2020/09/Ruha-Benjamin-%E2%80%93-Race-After-Technology-Introduction.pdf), shows how systems that appear neutral reproduce racial discrimination. The
+[‘Feminist Search Engine’](https://hackersanddesigners.nl/p/Feminist_Search_Engine) by Hackers & Designers asks: ‘Who is taking responsibility for which part of the search process: us, the users, the researcher, the library, the algorithm? And how does this influence our search results?’
 
 <br>
 
-_In short:_ “User” names a relation of power.
-_Reading:_ Olia Lialina, ["Turing Complete User"](http://contemporary-home-computing.org/turing-complete-user/), 2012
+_In short:_ ‘User’ names a relation of power.
+_Reading:_ Olia Lialina, [‘Turing Complete User’](http://contemporary-home-computing.org/turing-complete-user/), 2012
 

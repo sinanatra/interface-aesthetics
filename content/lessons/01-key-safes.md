@@ -3,7 +3,7 @@
 ## What is an interface?
 
 > Interface is not a thing, but a zone of affordances
-> Johanna Drucker, ["Humanities Approaches to Interface Theory"](https://attachments.are.na/23491749/923ae476dd101951b2b630d633621fea.pdf), 2011
+> Johanna Drucker, [‘Humanities Approaches to Interface Theory’](https://attachments.are.na/23491749/923ae476dd101951b2b630d633621fea.pdf), 2011
 
 [![Women on Waves, abortion key safes in Malta](https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI1MjcxMzQ2NC9vcmlnaW5hbF82NDlkMWU5YjNmODJiNjQ1M2M5NzU0NzM4MmU1OTE3Mi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjE4MDAsImhlaWdodCI6MTgwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfSwid2VicCI6eyJxdWFsaXR5Ijo3NX0sImpwZWciOnsicXVhbGl0eSI6NzV9LCJyb3RhdGUiOm51bGx9fQ==?bc=0 "Women on Waves, abortion key safes in Malta")](https://www.womenonwaves.org/en/page/7875/abortion-key-safes-in-malta)
 
@@ -21,5 +21,5 @@ When computers then entered our homes, these new ways of interacting had to be e
 
 <br>
 
-_In short:_ An interface is a relation between people, and it doesn't need a screen.
+_In short:_ An interface is a relation between people, and it doesn’t need a screen.
 _Reading:_ Jay David Bolter, Diane Gromala, [_Windows and Mirrors_](https://mitpress.mit.edu/9780262524490/windows-and-mirrors/), 2003
