@@ -1,5 +1,6 @@
 export const SITE = "Interface Aesthetics";
 export const HOME = "about";
+export const SITE_URL = "https://interface-aesthetics.giacomo.website";
 
 const files = import.meta.glob("/content/**/*.md", {
   query: "?raw",

@@ -1,6 +1,6 @@
 import { Marked } from "marked";
 import { base } from "$app/paths";
-import { pages, titleOf, SITE, HOME } from "$lib/content";
+import { pages, titleOf, SITE, HOME, SITE_URL } from "$lib/content";
 import { imageSize } from "./image-size";
 
 const isExternal = (href) => /^https?:\/\//.test(href);
@@ -116,6 +116,27 @@ const marked = new Marked({
   },
 });
 
+function describe(md) {
+  const text = md
+    .replace(/<!--[\s\S]*?-->/g, "")
+    .split(/\n\s*\n/)
+    .map((block) => block.trim())
+    .find((block) => /^[^#>!\[\-`<]/.test(block) && block.length > 40);
+  const plain = (text ?? "")
+    .replace(/\[([^\]]*)\]\([^)]*\)/g, "$1")
+    .replace(/[_*`]/g, "")
+    .replace(/\s+/g, " ")
+    .trim();
+  return plain.length > 160
+    ? plain.slice(0, plain.lastIndexOf(" ", 157)) + "…"
+    : plain;
+}
+
+const coverOf = (md) =>
+  [...md.matchAll(/!\[[^\]]*\]\((\S+)/g)]
+    .map((m) => m[1])
+    .find((href) => isExternal(href) && !/\.(mp4|webm|mov)\b/.test(href));
+
 export async function getPage(slug) {
   const md = pages[slug];
   if (md === undefined) return null;
@@ -124,6 +145,8 @@ export async function getPage(slug) {
     slug,
     title,
     headTitle: slug === HOME ? SITE : `${title} — ${SITE}`,
+    description: describe(md),
+    cover: (slug !== HOME && coverOf(md)) || `${SITE_URL}${base}/cover.png`,
     html: await marked.parse(md),
   };
 }
