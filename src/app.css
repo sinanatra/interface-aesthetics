@@ -11,7 +11,7 @@
 
 @layer base {
   :root {
-    --space: 12px;
+    --space: 8px;
     --fs: 18px;
     --lh: 22px;
     --fs-small: 14px;
