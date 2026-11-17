@@ -1,8 +1,7 @@
 @import "tailwindcss";
 
 @theme {
-  --font-sans: "Times New Roman", Times, serif;
-
+  --font-serif: "Times New Roman", Times, serif;
   --color-paper: #ffffff;
   --color-cover: gainsboro;
   --color-pink: #ffe6f5;
@@ -259,3 +258,4 @@
     }
   }
 }
+

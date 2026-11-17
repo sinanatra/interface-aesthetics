@@ -12,7 +12,7 @@
   const path = $derived(page.url.pathname.replace(base, "") || "/");
 </script>
 
-<div class="min-h-screen bg-paper font-sans text-ink">
+<div class="min-h-screen bg-paper font-serif text-ink">
   {#if path === "/"}<Wires />{/if}
   <div class="grid p-space md:page-grid min-h-[90dvh]">
     <Nav lessons={data.lessons} editions={data.editions} {path} />
