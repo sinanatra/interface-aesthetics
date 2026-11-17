@@ -27,5 +27,5 @@ The web is made up of standard components, and you can play with these component
 
 <br>
 
-_In short:_ An interface tells you what to do but you don’t have to listen.
+_TLDR:_ An interface tells you what to do but you don’t have to listen.
 _Reading:_ Olia Lialina, [‘Once Again, The Doorknob’](https://contemporary-home-computing.org/affordance/), 2018

@@ -35,5 +35,5 @@ As [_HTML Energy_](https://html.energy/) reminds us, anyone who wants to publish
 
 <br>
 
-_In short:_ A website can be tended and lived in, like a homepage or a shared spreadsheet.
+_TLDR:_ A website can be tended and lived in, like a homepage or a shared spreadsheet.
 _Reading:_ Laurel Schwulst, [‘My Website Is a Shifting House’](https://laurelschwulst.com/e/my-website-is-a-shifting-house/), 2018

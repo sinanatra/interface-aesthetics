@@ -14,5 +14,5 @@ Zooming changes the way we see reality.[_Powers of Ten_](https://www.youtube.com
 
 <br>
 
-_In short:_ The map is cropped around you, and it shows only what someone chose to count.
+_TLDR:_ The map is cropped around you, and it shows only what someone chose to count.
 _Reading:_ Joost Grootens, [_Blind Maps and Blue Dots_](https://attachments.are.na/21440971/7197dd5f9f5cfd44a5234ccb51f1750d.pdf), 2020

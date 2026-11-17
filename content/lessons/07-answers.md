@@ -21,5 +21,5 @@ With image generators, observes Vinzenz Aubry in [‘In Defense of No Image’](
 
 <br>
 
-_In short:_ A generated answer drops its sources, a generated image points to nothing.
+_TLDR:_ A generated answer drops its sources, a generated image points to nothing.
 _Reading:_ Vinzenz Aubry, [‘In Defense of No Image’](https://vinzenzaubry.com/text/in-defense-of-no-image), 2024

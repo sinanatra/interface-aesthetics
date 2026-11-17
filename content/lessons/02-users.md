@@ -20,6 +20,6 @@ The intended user is a choice. [_Design Justice_](https://designjustice.mitpress
 
 <br>
 
-_In short:_ ‘User’ names a relation of power.
+_TLDR:_ ‘User’ names a relation of power.
 _Reading:_ Olia Lialina, [‘Turing Complete User’](http://contemporary-home-computing.org/turing-complete-user/), 2012
 

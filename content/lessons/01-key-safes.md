@@ -21,5 +21,5 @@ When computers then entered our homes, these new ways of interacting had to be e
 
 <br>
 
-_In short:_ An interface is a relation between people, and it doesn’t need a screen.
+_TLDR:_ An interface is a relation between people, and it doesn’t need a screen.
 _Reading:_ Jay David Bolter, Diane Gromala, [_Windows and Mirrors_](https://mitpress.mit.edu/9780262524490/windows-and-mirrors/), 2003

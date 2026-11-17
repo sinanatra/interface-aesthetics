@@ -33,5 +33,5 @@ In November 2025, Anthropic, the company behind the Claude models, [committed](h
 
 <br>
 
-_In short:_ An interface lasts if someone looks after it, and if it asks for little.
+_TLDR:_ An interface lasts if someone looks after it, and if it asks for little.
 _Reading:_ Aymeric Mansoux et al., [‘Permacomputing Aesthetics: Potential and Limits of Constraints in Computational Art, Design and Culture’](https://attachments.are.na/52748405/17e7d866ac73f29b37f0094cd2d42acf.pdf), 2023

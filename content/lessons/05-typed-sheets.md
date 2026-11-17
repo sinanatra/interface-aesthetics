@@ -25,5 +25,5 @@ Investigators use videos, photos and audio recordings posted online by strangers
 
 <br>
 
-_In short:_ Data is taken, not given, and it can be made to answer back to power.
+_TLDR:_ Data is taken, not given, and it can be made to answer back to power.
 _Reading:_ Eyal Weizman, Matthew Fuller, [_Investigative Aesthetics_](https://attachments.are.na/43821297/84e2b77272ed574edb3e2889ce6d4cb2.pdf), 2021
