@@ -17,7 +17,7 @@ Jay David Bolter and Diane Gromala define this phenomenon as the myth of transpa
 ## The shape of the interface
 
 In 1945, Vannevar Bush described the [memex](https://archive.org/details/as-we-may-think), a desk where a researcher could record paths through documents and transmit them. This concept has its roots in the seventeenth century, when the Jesuit [Athanasius Kircher](https://en.wikipedia.org/wiki/Arca_Musarithmica) devised a physical interface for musical composition. From 1960 onwards, [Ted Nelson](https://en.wikipedia.org/wiki/Project_Xanadu) worked on Xanadu, a system designed to keep every citation linked to its source.
-When computers then entered our homes, these new ways of interacting had to be explained to the general public: magazines like [_Byte_](https://archive.org/details/byte-magazine-1982-01) explained them to enthusiasts, and as late as 1995,the CBC was showing its viewers [how to use the internet](https://youtube.com/watch?v=Y0EXga2hEIs).What interfaces did you imagine, and which ones did you have to learn? Who taught them to you?
+When computers then entered our homes, these new ways of interacting had to be explained to the general public: magazines like [_Byte_](https://archive.org/details/byte-magazine-1982-01) explained them to enthusiasts, and as late as 1995, the CBC was showing its viewers [how to use the internet](https://youtube.com/watch?v=Y0EXga2hEIs).What interfaces did you imagine, and which ones did you have to learn? Who taught them to you?
 
 <br>
 
