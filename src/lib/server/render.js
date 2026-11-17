@@ -144,7 +144,7 @@ export async function getPage(slug) {
   return {
     slug,
     title,
-    headTitle: slug === HOME ? SITE : `${title} — ${SITE}`,
+    headTitle: slug === HOME ? SITE : `${title} * ${SITE}`,
     description: describe(md),
     cover: (slug !== HOME && coverOf(md)) || `${SITE_URL}${base}/cover.png`,
     html: await marked.parse(md),
