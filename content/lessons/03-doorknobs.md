@@ -9,11 +9,11 @@
 
 [![Studio Moniker, Puff Up Club](https://studiomoniker.com/thumbs/projects/puff-up-club/states/installation-1920x1272-q85.jpg "Studio Moniker, Puff Up Club")](https://studiomoniker.com/projects/puff-up-club)
 
-A doorknob tells the hand where to go. A button does the same on a screen. In design, this phenomenon is called _affordance_, a term that [Don Norman](https://dl.acm.org/doi/10.1145/301153.301168) borrowed from the psychologist James Gibson. Anatoly Zenkov [steals](https://anatolyzenkov.com/stolen-buttons) a button from every website he visits. More or less, they all look the same.
+A doorknob tells the hand where to go. A button does the same on a screen. In [‘Once Again, The Doorknob’](https://contemporary-home-computing.org/affordance/) (2018) Olia Lialina traces how _affordance_, a term Don Norman borrowed from the psychologist James Gibson, became the rule of interface design. Anatoly Zenkov [steals](https://anatolyzenkov.com/stolen-buttons) a button from every website he visits. More or less,affordance makes them all look the same.
 
 ## One app per purpose
 
-A door does one thing, a computer can become anything. In [‘Once Again, The Doorknob’](https://contemporary-home-computing.org/affordance/) (2018) Olia Lialina observes how design reduces the computer to a single app per purpose (look at vibe coded websites). You don’t need a dating app, she says; you can even go on a date using Excel. Amelia Wattenberger notes that our interfaces have [lost their senses](https://wattenberger.com/thoughts/our-interfaces-have-lost-their-senses): we sculpt with our hands and scrutinise with our eyes, only to flatten everything into a simple tap on the glass.
+A door does one thing, a computer can become anything. Lialina also observes how design reduces the computer to a single app per purpose (look at vibe coded websites). You don’t need a dating app, she says; you can even go on a date using Excel. Amelia Wattenberger notes that our interfaces have [lost their senses](https://wattenberger.com/thoughts/our-interfaces-have-lost-their-senses): we sculpt with our hands and scrutinise with our eyes, only to flatten everything into a simple tap on the glass.
 
 ## The cursor as material
 
