@@ -239,7 +239,7 @@
     </div>
 
     <p class="absolute right-2 bottom-2 z-10 text-small">
-      * Wires are used to make connections
+      Wires are used to make connections
     </p>
   </div>
 </section>
