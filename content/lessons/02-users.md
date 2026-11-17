@@ -2,7 +2,7 @@
 
 ## Who is the user?
 
-> There are only two industries which refer to their customers as users, drugs and computers.
+> There are only two industries which refer to their customers as users, drugs and software.
 > [Edward Tufte, 1997](https://cryptome.org/jya/tufte.htm)
 
 [![Nope, Not Arabic|medium](https://d2w9rnfcy7mm78.cloudfront.net/52805350/original_acf83fc158d185a57284c5036ca2e8cd.png?1794763436?bc=0 "A mug that says tradition in a bunch of languages, none of which are Arabic.")](https://www.notarabic.com/)
