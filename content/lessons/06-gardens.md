@@ -2,7 +2,7 @@
 
 ## Can a website be inhabited?
 
-> My website is a shifting house next to a river of knowledge.
+> What kind of room is a website? Or is a website more like a house? A boat? A cloud? A garden? A puddle?
 > Laurel Schwulst, [‘My Website Is a Shifting House’](https://laurelschwulst.com/e/my-website-is-a-shifting-house/), 2018
 
 [![Ken Goldberg, Telegarden](https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxNDk0NzYwNC9vcmlnaW5hbF80MzdmZWI3MDM0Y2ExZTE2MTkyNjZkNzcxZGU4ZTkzNi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjE4MDAsImhlaWdodCI6MTgwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfSwid2VicCI6eyJxdWFsaXR5Ijo3NX0sImpwZWciOnsicXVhbGl0eSI6NzV9LCJyb3RhdGUiOm51bGx9fQ==?bc=0 "Ken Goldberg, Telegarden")](https://goldberg.berkeley.edu/garden/Ars/)
