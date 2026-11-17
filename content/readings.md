@@ -15,8 +15,9 @@ A selection of core texts discussed during the lessons and required for the exam
 - Joost Grootens, [_Blind Maps and Blue Dots: The Blurring of the Producer–User Divide in the Production of Visual Information_](https://attachments.are.na/21440971/7197dd5f9f5cfd44a5234ccb51f1750d.pdf), PhD thesis, Leiden University, 2020
 - Olia Lialina, [‘Once Again, The Doorknob’](https://contemporary-home-computing.org/affordance/), 2018
 - Olia Lialina, [‘Turing Complete User’](http://contemporary-home-computing.org/turing-complete-user/), 2012
-- Aymeric Mansoux et al., [‘Permacomputing Aesthetics’](https://attachments.are.na/52748405/17e7d866ac73f29b37f0094cd2d42acf.pdf), 2023
+<!-- - Aymeric Mansoux et al., [‘Permacomputing Aesthetics’](https://attachments.are.na/52748405/17e7d866ac73f29b37f0094cd2d42acf.pdf), 2023 -->
 - Shannon Mattern, [‘Maintenance and Care’](https://placesjournal.org/article/maintenance-and-care/), _Places Journal_, 2018
+- Permacomputing, [Permacomputing](https://permacomputing.net/)
 - Pirate Care, [_Pirate Care Syllabus_](https://syllabus.pirate.care/), ongoing
 - Laurel Schwulst, [‘My Website Is a Shifting House Next to a River of Knowledge. What Could Yours Be?’](https://laurelschwulst.com/e/my-website-is-a-shifting-house/), _The Creative Independent_, 2018
 - Joan C. Tronto, [_Moral Boundaries: A Political Argument for an Ethic of Care_](https://syllabus.pirate.care/library/Joan%20C.%20Tronto/), Routledge, 1993

@@ -14,8 +14,7 @@ Derek Jarman planted his [garden](https://www.bfi.org.uk/sight-and-sound/feature
 
 ## Homepages
 
-Before social media, people built their own pages and the web resembled them. GeoCities grouped them into neighbourhoods; when
-it closed in 2009, the saved copy was represented as [a map](http://deletedcity.net/). This amateurish language is the ‘Vernacular Web’. [_Summer_](https://art.teleportacia.org/olia/summer/) represents the volatility of these pages. The animation works until all these sites disappear or change.
+Before social media, people built their own pages and the web resembled them. GeoCities grouped them into neighbourhoods; when it closed in 2009, the saved copy was represented as [a map](http://deletedcity.net/). This amateurish language is the ‘Vernacular Web’. [_Summer_](https://art.teleportacia.org/olia/summer/) represents the volatility of these pages. The animation works until all these sites disappear or change.
 
 [![Spreadsheet garden|medium](https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIyODYxOTcwNS9vcmlnaW5hbF80OTc0OTMyZTBkN2M0MWIzYWUzYTMzODE2ZDUwYTcwYS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjE4MDAsImhlaWdodCI6MTgwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfSwid2VicCI6eyJxdWFsaXR5Ijo3NX0sImpwZWciOnsicXVhbGl0eSI6NzV9LCJyb3RhdGUiOm51bGx9fQ==?bc=0 "oio, spreadsheet garden")](https://docs.google.com/spreadsheets/d/17JTNoOGFI0PXPpUVsDCHnq_76B38mv-bc6U64mp6Vt0/edit?usp=sharing)
 
