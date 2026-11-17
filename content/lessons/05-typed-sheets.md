@@ -5,7 +5,7 @@
 > Data have no necessary visual form.
 > Alexander R. Galloway, [‘Are Some Things Unrepresentable?’](https://attachments.are.na/31584665/3bd36dafd044ae2b48f36c38ffe6c697.pdf), 2011
 
-[![Hans Haacke, Shapolsky et al.](https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0ODYxMjA5L29yaWdpbmFsXzQ1ZDU3Njk1Y2JhZmQ4OTc3Njk3N2E4YmQ2MDliOGM0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTgwMCwiaGVpZ2h0IjoxODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19?bc=0 "Hans Haacke, Shapolsky et al. Manhattan Real Estate Holdings, a Real Time Social System, as of May 1, 1971")](https://news.artnet.com/app/news-upload/2017/02/haacke-FINAL.jpg)
+[![Hans Haacke, Shapolsky et al.|large](https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0ODYxMjA5L29yaWdpbmFsXzQ1ZDU3Njk1Y2JhZmQ4OTc3Njk3N2E4YmQ2MDliOGM0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTgwMCwiaGVpZ2h0IjoxODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19?bc=0 "Hans Haacke, Shapolsky et al. Manhattan Real Estate Holdings, a Real Time Social System, as of May 1, 1971")](https://news.artnet.com/app/news-upload/2017/02/haacke-FINAL.jpg)
 
 In 1971, Hans Haacke compiled public records relating to 142 buildings in Manhattan owned by companies belonging to a single family and presented them in the form of photographs and typewritten sheets. It was not secret information, but the mere fact that the information was made legible by showing the connections between the entries was enough for the Guggenheim to cancel the exhibition.
 
@@ -21,7 +21,7 @@ Charles Sanders Peirce divided signs into three categories. An icon resembles wh
 
 Investigators use videos, photos and audio recordings posted online by strangers to show where and how the violence took place. Eyal Weizman and Matthew Fuller define this approach as [investigative aesthetics](https://attachments.are.na/43821297/84e2b77272ed574edb3e2889ce6d4cb2.pdf): making something perceptible so that it can be challenged. The result often appears deliberately raw, as if this very rawness were to guarantee its veracity.
 
-[![Freedom Flotilla Coalition, Global Sumud Tracker|medium](https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIzOTcyODQyNS9vcmlnaW5hbF82YTQ4NGI0ZDc0YTBkZTNiNzdjMjI3MWUzMWI2NTY5YS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjE4MDAsImhlaWdodCI6MTgwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfSwid2VicCI6eyJxdWFsaXR5Ijo3NX0sImpwZWciOnsicXVhbGl0eSI6NzV9LCJyb3RhdGUiOm51bGx9fQ==?bc=0 "Global Sumud Flotilla Tracker")](https://www.freedomflotilla.org/ffc-gsf-tracker/)
+[![Freedom Flotilla Coalition, Global Sumud Tracker|large](https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIzOTcyODQyNS9vcmlnaW5hbF82YTQ4NGI0ZDc0YTBkZTNiNzdjMjI3MWUzMWI2NTY5YS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjE4MDAsImhlaWdodCI6MTgwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfSwid2VicCI6eyJxdWFsaXR5Ijo3NX0sImpwZWciOnsicXVhbGl0eSI6NzV9LCJyb3RhdGUiOm51bGx9fQ==?bc=0 "Global Sumud Flotilla Tracker")](https://www.freedomflotilla.org/ffc-gsf-tracker/)
 
 <br>
 

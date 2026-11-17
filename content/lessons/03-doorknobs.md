@@ -5,9 +5,9 @@
 > We know how to open doors without knobs.
 > Olia Lialina, ‘Turing Complete User’, 2012
 
-![](https://studiomoniker.com/videos/direct/173770637.hd.mp4)
+![|large](https://studiomoniker.com/videos/direct/173770637.hd.mp4)
 
-[![Studio Moniker, Puff Up Club](https://studiomoniker.com/thumbs/projects/puff-up-club/states/installation-1920x1272-q85.jpg "Studio Moniker, Puff Up Club")](https://studiomoniker.com/projects/puff-up-club)
+[![Studio Moniker, Puff Up Club|large](https://studiomoniker.com/thumbs/projects/puff-up-club/states/installation-1920x1272-q85.jpg "Studio Moniker, Puff Up Club")](https://studiomoniker.com/projects/puff-up-club)
 
 A doorknob tells the hand where to go. A button does the same on a screen. In [‘Once Again, The Doorknob’](https://contemporary-home-computing.org/affordance/) (2018) Olia Lialina traces how _affordance_, a term Don Norman borrowed from the psychologist James Gibson, became the rule of interface design. Anatoly Zenkov [steals](https://anatolyzenkov.com/stolen-buttons) a button from every website he visits. More or less,affordance makes them all look the same.
 

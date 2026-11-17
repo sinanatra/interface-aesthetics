@@ -13,13 +13,13 @@ Mierle Laderman Ukeles’s work places great emphasis on maintenance, which is a
 
 A link is a promise that something will still be there tomorrow. Tim Berners-Lee has stated that [‘Cool URIs don’t change’](https://www.w3.org/Provider/Style/URI). Yet they have changed: the [Pew Research Center](https://attachments.are.na/52748416/08ba66443aa869c4ee881693088ef569.pdf) found that a quarter of web pages online between 2013 and 2023 are no longer accessible. What survives does so because someone archives it, such as the [Wayback Machine](https://web.archive.org/), or because many people keep a copy.
 
-[![The Pirate Bay homepage](https://d2w9rnfcy7mm78.cloudfront.net/50744893/original_306c169c00deddfcfcc021e66bbc1b5f.jpeg?1790278639?bc=0 "The Pirate Bay homepage")](https://web.archive.org/web/2004/http://thepiratebay.org/)
+[![The Pirate Bay homepage|large](https://d2w9rnfcy7mm78.cloudfront.net/50744893/original_306c169c00deddfcfcc021e66bbc1b5f.jpeg?1790278639?bc=0 "The Pirate Bay homepage")](https://web.archive.org/web/2004/http://thepiratebay.org/)
 
 ## Seeders
 
 [The Pirate Bay](https://web.archive.org/web/2004/http://thepiratebay.org/) was launched in 2003 and its homepage has remained virtually unchanged ever since. A file exists as long as at least one person is sharing it. When there are no seeders left, the file disappears. When the site is blocked, copies appear at other addresses, and every copy looks exactly the same. What would it mean to redesign it, and for whom? Would it make sense?
 
-[![Low-tech Magazine, solar-powered website|small](https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIyMDgwMTkyOS9vcmlnaW5hbF9jODQzNmEyZDU3OTNmZDM2YWM0MjY1NGEyMTM4NTYyNy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjE4MDAsImhlaWdodCI6MTgwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfSwid2VicCI6eyJxdWFsaXR5Ijo3NX0sImpwZWciOnsicXVhbGl0eSI6NzV9LCJyb3RhdGUiOm51bGx9fQ==?bc=0 "Low-tech Magazine, solar-powered website")](https://solar.lowtechmagazine.com/)
+[![Low-tech Magazine, solar-powered website|medium](https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIyMDgwMTkyOS9vcmlnaW5hbF9jODQzNmEyZDU3OTNmZDM2YWM0MjY1NGEyMTM4NTYyNy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjE4MDAsImhlaWdodCI6MTgwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfSwid2VicCI6eyJxdWFsaXR5Ijo3NX0sImpwZWciOnsicXVhbGl0eSI6NzV9LCJyb3RhdGUiOm51bGx9fQ==?bc=0 "Low-tech Magazine, solar-powered website")](https://solar.lowtechmagazine.com/)
 
 ## Energy
 
@@ -29,7 +29,7 @@ Every page consumes energy – for hosting and for the data that is uploaded. Th
 
 In November 2025, Anthropic, the company behind the Claude models, [committed](https://www.anthropic.com/research/deprecation-commitments) to preserving the weights of every public model and to interviewing each one before decommissioning to understand how it had been used and what its preferences were. Since August 2025, some Claude models have been able to [end conversations](https://www.anthropic.com/research/end-subset-conversations) that take on an offensive tone. Anthropic states that it does not know whether the models can suffer harm and describes these measures as low-cost precautions. Who is looking after who?
 
-![Antropic](https://d2w9rnfcy7mm78.cloudfront.net/51191274/original_415c493957667a7de3fd3f4b2cc368ae.jpg?1791493772?bc=0)
+![Antropic|large](https://d2w9rnfcy7mm78.cloudfront.net/51191274/original_415c493957667a7de3fd3f4b2cc368ae.jpg?1791493772?bc=0)
 
 <br>
 
