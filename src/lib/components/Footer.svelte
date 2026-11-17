@@ -1,19 +1,13 @@
-<script>
-  import { CREDITS } from "$lib/content";
-</script>
-
 <footer class="bg-pink mt-8 px-4 py-2 text-sm">
-  <div>
-    {#each CREDITS as { lines, href }}
-      <p>
-        {#if href}
-          <a {href} target="_blank" rel="noopener"
-            >{@html lines.join("<br />")}</a
-          >
-        {:else}
-          {@html lines.join("<br />")}
-        {/if}
-      </p>
-    {/each}
+  <div class="max-w-[30rem]">
+    <p>
+      A living syllabus by <a
+        href="https://giacomo.website"
+        target="_blank"
+        rel="noopener noreferrer">Giacomo Nanni</a
+      >.
+    </p>
+    <p>Readings and lessons may change.</p>
+    <p>November 2026</p>
   </div>
 </footer>
