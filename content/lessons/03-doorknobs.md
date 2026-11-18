@@ -18,12 +18,15 @@ A door does one thing, a computer can become anything. Lialina also observes how
 ## The cursor as material
 
 Every gesture is recorded on a screen. Vilém Flusser interpreted gestures such as writing or making a phone call as expressions of freedom ([_Gestures_](https://www.upress.umn.edu/9780816691289/gestures/)); online, they are counted and can be used against us. Studio Moniker turns this perspective on its head: in [_Do Not Touch_](https://puckey.studio/projects/do-not-touch), thousands of cursors belonging to strangers move in unison, or they ask you for clicks inflate a [real balloon](https://studiomoniker.com/projects/puff-up-club) until it pops. [_Pointer Pointer_](https://pointerpointer.com/) responds to your cursor with a photo of someone pointing at that exact spot.
+In 1994 ART+COM built [a virtual globe](https://youtu.be/zBMJVgi8vm8?si=WBx9FTLSYfnjhtCv), allowing users to explore the digital world by spinning a physical globe.
 
-[![Katherine Yang, Every Element Is an HTML|medium](https://d2w9rnfcy7mm78.cloudfront.net/52828021/original_84c40532854ab6e7bd8f634035d3ab1d.png?1794834744?bc=0 "Katherine Yang, Every Element Is an HTML")](https://kayserifserif.place/work/every-element-is-an-html)
+![ART+COM, Terravision|large](https://d2w9rnfcy7mm78.cloudfront.net/52936940/original_8c12578f42eeec21a5f4f65300238c0d.jpg?1794993107?bc=0 "ART+COM, Terravision")
 
 ## Playing with the parts
 
-The web is made up of standard components, and you can play with these components. Evan Roth’s [_All HTML_](https://esoteric.codes/blog/all-html) brings together all HTML tags on a single page. Katherine Yang [improvises](https://kayserifserif.place/work/every-element-is-an-html/) with the same elements. JODI trasnformed the [error page](http://404.jodi.org/) into the artwork, in [Scrollbar Composition](https://www.scrollbarcomposition.com/), the piece is the scrollbar. Matthew Fuller, in [_Behind the Blip_](https://monoskop.org/log/?p=1108), defines this approach as ‘critical software’: software that reveals its own assumptions.
+The web is made up of standard components, and you can play with these components. Evan Roth’s [_All HTML_](https://esoteric.codes/blog/all-html) brings together all HTML tags on a single page. Katherine Yang [improvises](https://kayserifserif.place/work/every-element-is-an-html/) with the same elements. JODI trasnformed the [error page](http://404.jodi.org/) into the artwork, in [Scrollbar Composition](https://www.scrollbarcomposition.com/), the piece is the scrollbar. Matthew Fuller, in [_Behind the Blip_](https://attachments.are.na/24566893/543be5139040d702ebd2447265442d9b.pdf?1699304267), defines this approach as ‘critical software’: software that reveals its own assumptions.
+
+[![Scrollbar Composition|medium](https://d2w9rnfcy7mm78.cloudfront.net/21451513/original_92e009d291207b6ba9df43b9762ce8fb.png?1681847103?bc=0 "Scrollbar Composition")](https://www.scrollbarcomposition.com/)
 
 <br>
 
