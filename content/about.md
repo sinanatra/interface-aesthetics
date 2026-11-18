@@ -1,8 +1,9 @@
 <!-- ## Accademia di Belle Arti di Bologna
 ## Design della cura, 2nd year -->
 
-> A point at which independent systems or diverse groups interact.
-> [_The American Heritage Dictionary_](https://www.ahdictionary.com/word/search.html?q=interface)
+> interface | \\ˈin-tər-ˌfās\\
+> The place at which independent and often unrelated systems meet and act on or communicate with each other.
+> [_Merriam-Webster_](https://www.merriam-webster.com/dictionary/interface)
 
 _Interface:_ For [Johanna Drucker](https://attachments.are.na/23491749/923ae476dd101951b2b630d633621fea.pdf), an interface is a dynamic space of relations and a zone of affordances that provokes cognitive experience. Rather than serving as a neutral tool for completing tasks, it mediates what we read through how we read it.
 _Aesthetics:_ From the Greek _aisthesis_, what pertains to the senses. [Eyal Weizman and Matthew Fuller](https://attachments.are.na/43821297/84e2b77272ed574edb3e2889ce6d4cb2.pdf) split it in two: sensing, the capacity to register or be affected, which belongs to bodies, materials and machines alike; and sense-making, the capacity to turn what is registered into knowledge. Everything senses, but not everything makes sense.
