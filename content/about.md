@@ -1,7 +1,7 @@
 <!-- ## Accademia di Belle Arti di Bologna
 ## Design della cura, 2nd year -->
 
-> interface | \\ˈin-tər-ˌfās\\
+<!-- >  \\ˈin-tər-ˌfās\\ -->
 > The place at which independent and often unrelated systems meet and act on or communicate with each other.
 > [_Merriam-Webster_](https://www.merriam-webster.com/dictionary/interface)
 

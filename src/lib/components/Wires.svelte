@@ -13,6 +13,7 @@
 
   let section;
   let host;
+  let scrolled = false;
 
   const add = (a, b) => [a[0] + b[0], a[1] + b[1]];
   const sub = (a, b) => [a[0] - b[0], a[1] - b[1]];
@@ -208,6 +209,7 @@
     const update = () => {
       const r = section.getBoundingClientRect();
       const k = clamp(-r.top / (r.height - innerHeight) / SCROLL_END);
+      scrolled = k > 0.02;
       const [x, y] = position(k);
       for (const g of moving)
         g.setAttribute("transform", `translate(${x} ${y})`);
@@ -238,6 +240,12 @@
       {@html drawing}
     </div>
 
+    <p
+      class="absolute center bottom-2 animate-bounce z-10 text-small transition-opacity duration-300 pointer-events-none"
+      class:opacity-0={scrolled}
+    >
+      scroll down
+    </p>
     <p class="absolute right-2 bottom-2 z-10 text-small">
       Wires are used to make connections
     </p>
